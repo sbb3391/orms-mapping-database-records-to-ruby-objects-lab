@@ -1,5 +1,6 @@
 require_relative 'spec_helper'
 require 'pry'
+
 describe Student do
 
   before do
